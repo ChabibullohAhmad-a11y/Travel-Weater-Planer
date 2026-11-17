@@ -190,6 +190,6 @@ Proyek ini merupakan bagian dari **portofolio pengembangan web dan skrip logika 
 
 **⭐ Jika proyek ini bermanfaat, jangan lupa beri bintang! ⭐**
 
-Made with ❤️ by **NodeClick**
+Made with ❤️ by **Habib**
 
 </div>
